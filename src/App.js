@@ -15,11 +15,12 @@ import NoEncontrado from './components/NoEncontrado';
 function App() {
   return (
     <Provider store={store}>
-      <BrowserRouter basename='/obligatorio-front-end'>
+      <BrowserRouter basename='/obligatorio-front-end/'>
         <Routes>
           <Route path="/" element={<Cabezal />}>
             <Route path="register" element={<Register />} />
-            <Route path="/obligatorio-front-end" element={<Login />} />
+            <Route path="/" element={<Login />} />
+            <Route path="/obligatorio-front-end/" element={<Login />} />
             <Route path="/index.html" element={<Login />} />
             <Route path="dashboard" element={<Dashboard />} />
             <Route path="mapa" element={<Mapa />} />
