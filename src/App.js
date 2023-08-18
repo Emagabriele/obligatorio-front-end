@@ -20,7 +20,6 @@ function App() {
           <Route path="/" element={<Cabezal />}>
             <Route path="register" element={<Register />} />
             <Route path="/" element={<Login />} />
-            <Route path="/obligatorio-front-end" element={<Login />} />
             <Route path="/index.html" element={<Login />} />
             <Route path="dashboard" element={<Dashboard />} />
             <Route path="mapa" element={<Mapa />} />
