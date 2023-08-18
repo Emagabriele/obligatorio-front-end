@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/obligatorio-front-end/static/css/main.eb02906e.css",
-    "main.js": "/obligatorio-front-end/static/js/main.88e10ea6.js",
+    "main.js": "/obligatorio-front-end/static/js/main.c8052347.js",
     "static/js/787.cbac8892.chunk.js": "/obligatorio-front-end/static/js/787.cbac8892.chunk.js",
     "index.html": "/obligatorio-front-end/index.html",
     "main.eb02906e.css.map": "/obligatorio-front-end/static/css/main.eb02906e.css.map",
-    "main.88e10ea6.js.map": "/obligatorio-front-end/static/js/main.88e10ea6.js.map",
+    "main.c8052347.js.map": "/obligatorio-front-end/static/js/main.c8052347.js.map",
     "787.cbac8892.chunk.js.map": "/obligatorio-front-end/static/js/787.cbac8892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb02906e.css",
-    "static/js/main.88e10ea6.js"
+    "static/js/main.c8052347.js"
   ]
 }
